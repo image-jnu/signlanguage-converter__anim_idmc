@@ -1,0 +1,380 @@
+{
+  "data": {
+    "700": {
+      "id": "anim:700",
+      "resPath": "RawAnim/700_GIST_1.fbx"
+    },
+    "701": {
+      "id": "anim:701",
+      "resPath": "RawAnim/701_GIST_1.fbx"
+    },
+    "702": {
+      "id": "anim:702",
+      "resPath": "RawAnim/702_GIST_1.fbx"
+    },
+    "703": {
+      "id": "anim:703",
+      "resPath": "RawAnim/703_GIST_1.fbx"
+    },
+    "704": {
+      "id": "anim:704",
+      "resPath": "RawAnim/704_GIST_1.fbx"
+    },
+    "705": {
+      "id": "anim:705",
+      "resPath": "RawAnim/705_GIST_1.fbx"
+    },
+    "706": {
+      "id": "anim:706",
+      "resPath": "RawAnim/706_GIST_1.fbx"
+    },
+    "707": {
+      "id": "anim:707",
+      "resPath": "RawAnim/707_GIST_1.fbx"
+    },
+    "708": {
+      "id": "anim:708",
+      "resPath": "RawAnim/708_GIST_1.fbx"
+    },
+    "709": {
+      "id": "anim:709",
+      "resPath": "RawAnim/709_GIST_1.fbx"
+    },
+    "710": {
+      "id": "anim:710",
+      "resPath": "RawAnim/710_GIST_1.fbx"
+    },
+    "711": {
+      "id": "anim:711",
+      "resPath": "RawAnim/711_GIST_1.fbx"
+    },
+    "712": {
+      "id": "anim:712",
+      "resPath": "RawAnim/712_GIST_1.fbx"
+    },
+    "713": {
+      "id": "anim:713",
+      "resPath": "RawAnim/713_GIST_1.fbx"
+    },
+    "714": {
+      "id": "anim:714",
+      "resPath": "RawAnim/714_GIST_1.fbx"
+    },
+    "715": {
+      "id": "anim:715",
+      "resPath": "RawAnim/715_GIST_2.fbx"
+    },
+    "717": {
+      "id": "anim:717",
+      "resPath": "RawAnim/717_GIST_4.fbx"
+    },
+    "718": {
+      "id": "anim:718",
+      "resPath": "RawAnim/718_GIST_1.fbx"
+    },
+    "719": {
+      "id": "anim:719",
+      "resPath": "RawAnim/719_GIST_1.fbx"
+    },
+    "720": {
+      "id": "anim:720",
+      "resPath": "RawAnim/720_GIST_1.fbx"
+    },
+    "722": {
+      "id": "anim:722",
+      "resPath": "RawAnim/722_GIST_2.fbx"
+    },
+    "723": {
+      "id": "anim:723",
+      "resPath": "RawAnim/723_GIST_1.fbx"
+    },
+    "724": {
+      "id": "anim:724",
+      "resPath": "RawAnim/724_GIST_1.fbx"
+    },
+    "725": {
+      "id": "anim:725",
+      "resPath": "RawAnim/725_GIST_1.fbx"
+    },
+    "726": {
+      "id": "anim:726",
+      "resPath": "RawAnim/726_GIST_1.fbx"
+    },
+    "727": {
+      "id": "anim:727",
+      "resPath": "RawAnim/727_GIST_1.fbx"
+    },
+    "728": {
+      "id": "anim:728",
+      "resPath": "RawAnim/728_GIST_1.fbx"
+    },
+    "729": {
+      "id": "anim:729",
+      "resPath": "RawAnim/729_GIST_1.fbx"
+    },
+    "730": {
+      "id": "anim:730",
+      "resPath": "RawAnim/730_GIST_1.fbx"
+    },
+    "731": {
+      "id": "anim:731",
+      "resPath": "RawAnim/731_GIST_1.fbx"
+    },
+    "733": {
+      "id": "anim:733",
+      "resPath": "RawAnim/733_GIST_1.fbx"
+    },
+    "734": {
+      "id": "anim:734",
+      "resPath": "RawAnim/734_GIST_1.fbx"
+    },
+    "735": {
+      "id": "anim:735",
+      "resPath": "RawAnim/735_GIST_4.fbx"
+    },
+    "736": {
+      "id": "anim:736",
+      "resPath": "RawAnim/736_GIST_1.fbx"
+    },
+    "737": {
+      "id": "anim:737",
+      "resPath": "RawAnim/737_GIST_1.fbx"
+    },
+    "738": {
+      "id": "anim:738",
+      "resPath": "RawAnim/738_GIST_1.fbx"
+    },
+    "739": {
+      "id": "anim:739",
+      "resPath": "RawAnim/739_GIST_1.fbx"
+    },
+    "740": {
+      "id": "anim:740",
+      "resPath": "RawAnim/740_GIST_1.fbx"
+    },
+    "741": {
+      "id": "anim:741",
+      "resPath": "RawAnim/741_GIST_1.fbx"
+    },
+    "742": {
+      "id": "anim:742",
+      "resPath": "RawAnim/742_GIST_1.fbx"
+    },
+    "743": {
+      "id": "anim:743",
+      "resPath": "RawAnim/743_GIST_1.fbx"
+    },
+    "744": {
+      "id": "anim:744",
+      "resPath": "RawAnim/744_GIST_1.fbx"
+    },
+    "745": {
+      "id": "anim:745",
+      "resPath": "RawAnim/745_GIST_1.fbx"
+    },
+    "746": {
+      "id": "anim:746",
+      "resPath": "RawAnim/746_GIST_1.fbx"
+    },
+    "747": {
+      "id": "anim:747",
+      "resPath": "RawAnim/747_GIST_1.fbx"
+    },
+    "748": {
+      "id": "anim:748",
+      "resPath": "RawAnim/748_GIST_1.fbx"
+    },
+    "749": {
+      "id": "anim:749",
+      "resPath": "RawAnim/749_GIST_1.fbx"
+    },
+    "750": {
+      "id": "anim:750",
+      "resPath": "RawAnim/750_GIST_1.fbx"
+    },
+    "751": {
+      "id": "anim:751",
+      "resPath": "RawAnim/751_GIST_1.fbx"
+    },
+    "752": {
+      "id": "anim:752",
+      "resPath": "RawAnim/752_GIST_1.fbx"
+    },
+    "753": {
+      "id": "anim:753",
+      "resPath": "RawAnim/753_GIST_1.fbx"
+    },
+    "754": {
+      "id": "anim:754",
+      "resPath": "RawAnim/754_GIST_1.fbx"
+    },
+    "755": {
+      "id": "anim:755",
+      "resPath": "RawAnim/755_GIST_1.fbx"
+    },
+    "756": {
+      "id": "anim:756",
+      "resPath": "RawAnim/756_GIST_1.fbx"
+    },
+    "757": {
+      "id": "anim:757",
+      "resPath": "RawAnim/757_GIST_1.fbx"
+    },
+    "758": {
+      "id": "anim:758",
+      "resPath": "RawAnim/758_GIST_1.fbx"
+    },
+    "759": {
+      "id": "anim:759",
+      "resPath": "RawAnim/759_GIST_1.fbx"
+    },
+    "760": {
+      "id": "anim:760",
+      "resPath": "RawAnim/760_GIST_1.fbx"
+    },
+    "762": {
+      "id": "anim:762",
+      "resPath": "RawAnim/762_GIST_1.fbx"
+    },
+    "763": {
+      "id": "anim:763",
+      "resPath": "RawAnim/763_GIST_1.fbx"
+    },
+    "764": {
+      "id": "anim:764",
+      "resPath": "RawAnim/764_GIST_1.fbx"
+    },
+    "765": {
+      "id": "anim:765",
+      "resPath": "RawAnim/765_GIST_1.fbx"
+    },
+    "766": {
+      "id": "anim:766",
+      "resPath": "RawAnim/766_GIST_1.fbx"
+    },
+    "767": {
+      "id": "anim:767",
+      "resPath": "RawAnim/767_GIST_1.fbx"
+    },
+    "768": {
+      "id": "anim:768",
+      "resPath": "RawAnim/768_GIST_1.fbx"
+    },
+    "769": {
+      "id": "anim:769",
+      "resPath": "RawAnim/769_GIST_1.fbx"
+    },
+    "770": {
+      "id": "anim:770",
+      "resPath": "RawAnim/770_GIST_1.fbx"
+    },
+    "771": {
+      "id": "anim:771",
+      "resPath": "RawAnim/771_GIST_1.fbx"
+    },
+    "772": {
+      "id": "anim:772",
+      "resPath": "RawAnim/772_GIST_1.fbx"
+    },
+    "773": {
+      "id": "anim:773",
+      "resPath": "RawAnim/773_GIST_1.fbx"
+    },
+    "774": {
+      "id": "anim:774",
+      "resPath": "RawAnim/774_GIST_1.fbx"
+    },
+    "775": {
+      "id": "anim:775",
+      "resPath": "RawAnim/775_GIST_1.fbx"
+    },
+    "776": {
+      "id": "anim:776",
+      "resPath": "RawAnim/776_GIST_1.fbx"
+    },
+    "777": {
+      "id": "anim:777",
+      "resPath": "RawAnim/777_GIST_1.fbx"
+    },
+    "778": {
+      "id": "anim:778",
+      "resPath": "RawAnim/778_GIST_1.fbx"
+    },
+    "779": {
+      "id": "anim:779",
+      "resPath": "RawAnim/779_GIST_1.fbx"
+    },
+    "780": {
+      "id": "anim:780",
+      "resPath": "RawAnim/780_GIST_1.fbx"
+    },
+    "781": {
+      "id": "anim:781",
+      "resPath": "RawAnim/781_GIST_1.fbx"
+    },
+    "782": {
+      "id": "anim:782",
+      "resPath": "RawAnim/782_GIST_1.fbx"
+    },
+    "783": {
+      "id": "anim:783",
+      "resPath": "RawAnim/783_GIST_1.fbx"
+    },
+    "784": {
+      "id": "anim:784",
+      "resPath": "RawAnim/784_GIST_1.fbx"
+    },
+    "785": {
+      "id": "anim:785",
+      "resPath": "RawAnim/785_GIST_1.fbx"
+    },
+    "786": {
+      "id": "anim:786",
+      "resPath": "RawAnim/786_GIST_1.fbx"
+    },
+    "788": {
+      "id": "anim:788",
+      "resPath": "RawAnim/788_GIST_1.fbx"
+    },
+    "789": {
+      "id": "anim:789",
+      "resPath": "RawAnim/789_GIST_1.fbx"
+    },
+    "790": {
+      "id": "anim:790",
+      "resPath": "RawAnim/790_GIST_1.fbx"
+    },
+    "791": {
+      "id": "anim:791",
+      "resPath": "RawAnim/791_GIST_1.fbx"
+    },
+    "792": {
+      "id": "anim:792",
+      "resPath": "RawAnim/792_GIST_1.fbx"
+    },
+    "793": {
+      "id": "anim:793",
+      "resPath": "RawAnim/793_GIST_1.fbx"
+    },
+    "794": {
+      "id": "anim:794",
+      "resPath": "RawAnim/794_GIST_1.fbx"
+    },
+    "795": {
+      "id": "anim:795",
+      "resPath": "RawAnim/795_GIST_1.fbx"
+    },
+    "796": {
+      "id": "anim:796",
+      "resPath": "RawAnim/796_GIST_1.fbx"
+    },
+    "798": {
+      "id": "anim:798",
+      "resPath": "RawAnim/798_GIST_1.fbx"
+    },
+    "799": {
+      "id": "anim:799",
+      "resPath": "RawAnim/799_GIST_1.fbx"
+    }
+  }
+}

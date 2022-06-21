@@ -1,0 +1,232 @@
+{
+  "data": {
+    "1000": {
+      "id": "anim:1000",
+      "resPath": "RawAnim/1000_GIST_1.fbx"
+    },
+    "1001": {
+      "id": "anim:1001",
+      "resPath": "RawAnim/1001_GIST_1.fbx"
+    },
+    "1002": {
+      "id": "anim:1002",
+      "resPath": "RawAnim/1002_GIST_1.fbx"
+    },
+    "1003": {
+      "id": "anim:1003",
+      "resPath": "RawAnim/1003_GIST_1.fbx"
+    },
+    "1004": {
+      "id": "anim:1004",
+      "resPath": "RawAnim/1004_GIST_1.fbx"
+    },
+    "1008": {
+      "id": "anim:1008",
+      "resPath": "RawAnim/1008_GIST_1.fbx"
+    },
+    "1009": {
+      "id": "anim:1009",
+      "resPath": "RawAnim/1009_GIST_1.fbx"
+    },
+    "1010": {
+      "id": "anim:1010",
+      "resPath": "RawAnim/1010_GIST_2.fbx"
+    },
+    "1011": {
+      "id": "anim:1011",
+      "resPath": "RawAnim/1011_GIST_1.fbx"
+    },
+    "1012": {
+      "id": "anim:1012",
+      "resPath": "RawAnim/1012_GIST_1.fbx"
+    },
+    "1013": {
+      "id": "anim:1013",
+      "resPath": "RawAnim/1013_GIST_2.fbx"
+    },
+    "1014": {
+      "id": "anim:1014",
+      "resPath": "RawAnim/1014_GIST_1.fbx"
+    },
+    "1015": {
+      "id": "anim:1015",
+      "resPath": "RawAnim/1015_GIST_1.fbx"
+    },
+    "1016": {
+      "id": "anim:1016",
+      "resPath": "RawAnim/1016_GIST_1.fbx"
+    },
+    "1017": {
+      "id": "anim:1017",
+      "resPath": "RawAnim/1017_GIST_1.fbx"
+    },
+    "1026": {
+      "id": "anim:1026",
+      "resPath": "RawAnim/1026_GIST_2.fbx"
+    },
+    "1027": {
+      "id": "anim:1027",
+      "resPath": "RawAnim/1027_GIST_2.fbx"
+    },
+    "1028": {
+      "id": "anim:1028",
+      "resPath": "RawAnim/1028_GIST_1.fbx"
+    },
+    "1029": {
+      "id": "anim:1029",
+      "resPath": "RawAnim/1029_GIST_1.fbx"
+    },
+    "1030": {
+      "id": "anim:1030",
+      "resPath": "RawAnim/1030_GIST_2.fbx"
+    },
+    "1031": {
+      "id": "anim:1031",
+      "resPath": "RawAnim/1031_GIST_2.fbx"
+    },
+    "1032": {
+      "id": "anim:1032",
+      "resPath": "RawAnim/1032_GIST_2.fbx"
+    },
+    "1033": {
+      "id": "anim:1033",
+      "resPath": "RawAnim/1033_GIST_2.fbx"
+    },
+    "1034": {
+      "id": "anim:1034",
+      "resPath": "RawAnim/1034_GIST_1.fbx"
+    },
+    "1035": {
+      "id": "anim:1035",
+      "resPath": "RawAnim/1035_GIST_1.fbx"
+    },
+    "1043": {
+      "id": "anim:1043",
+      "resPath": "RawAnim/1043_GIST_1.fbx"
+    },
+    "1044": {
+      "id": "anim:1044",
+      "resPath": "RawAnim/1044_GIST_1.fbx"
+    },
+    "1045": {
+      "id": "anim:1045",
+      "resPath": "RawAnim/1045_GIST_1.fbx"
+    },
+    "1046": {
+      "id": "anim:1046",
+      "resPath": "RawAnim/1046_GIST_1.fbx"
+    },
+    "1047": {
+      "id": "anim:1047",
+      "resPath": "RawAnim/1047_GIST_2.fbx"
+    },
+    "1048": {
+      "id": "anim:1048",
+      "resPath": "RawAnim/1048_GIST_1.fbx"
+    },
+    "1049": {
+      "id": "anim:1049",
+      "resPath": "RawAnim/1049_GIST_1.fbx"
+    },
+    "1050": {
+      "id": "anim:1050",
+      "resPath": "RawAnim/1050_GIST_2.fbx"
+    },
+    "1051": {
+      "id": "anim:1051",
+      "resPath": "RawAnim/1051_GIST_1.fbx"
+    },
+    "1061": {
+      "id": "anim:1061",
+      "resPath": "RawAnim/1061_GIST_1.fbx"
+    },
+    "1062": {
+      "id": "anim:1062",
+      "resPath": "RawAnim/1062_GIST_1.fbx"
+    },
+    "1063": {
+      "id": "anim:1063",
+      "resPath": "RawAnim/1063_GIST_1.fbx"
+    },
+    "1064": {
+      "id": "anim:1064",
+      "resPath": "RawAnim/1064_GIST_1.fbx"
+    },
+    "1065": {
+      "id": "anim:1065",
+      "resPath": "RawAnim/1065_GIST_1.fbx"
+    },
+    "1066": {
+      "id": "anim:1066",
+      "resPath": "RawAnim/1066_GIST_1.fbx"
+    },
+    "1067": {
+      "id": "anim:1067",
+      "resPath": "RawAnim/1067_GIST_1.fbx"
+    },
+    "1068": {
+      "id": "anim:1068",
+      "resPath": "RawAnim/1068_GIST_1.fbx"
+    },
+    "1069": {
+      "id": "anim:1069",
+      "resPath": "RawAnim/1069_GIST_1.fbx"
+    },
+    "1070": {
+      "id": "anim:1070",
+      "resPath": "RawAnim/1070_GIST_1.fbx"
+    },
+    "1071": {
+      "id": "anim:1071",
+      "resPath": "RawAnim/1071_GIST_1.fbx"
+    },
+    "1072": {
+      "id": "anim:1072",
+      "resPath": "RawAnim/1072_GIST_1.fbx"
+    },
+    "1073": {
+      "id": "anim:1073",
+      "resPath": "RawAnim/1073_GIST_1.fbx"
+    },
+    "1074": {
+      "id": "anim:1074",
+      "resPath": "RawAnim/1074_GIST_1.fbx"
+    },
+    "1075": {
+      "id": "anim:1075",
+      "resPath": "RawAnim/1075_GIST_1.fbx"
+    },
+    "1076": {
+      "id": "anim:1076",
+      "resPath": "RawAnim/1076_GIST_1.fbx"
+    },
+    "1077": {
+      "id": "anim:1077",
+      "resPath": "RawAnim/1077_GIST_1.fbx"
+    },
+    "1078": {
+      "id": "anim:1078",
+      "resPath": "RawAnim/1078_GIST_1.fbx"
+    },
+    "1079": {
+      "id": "anim:1079",
+      "resPath": "RawAnim/1079_GIST_1.fbx"
+    },
+    "1080": {
+      "id": "anim:1080",
+      "resPath": "RawAnim/1080_GIST_1.fbx"
+    },
+    "1081": {
+      "id": "anim:1081",
+      "resPath": "RawAnim/1081_GIST_1.fbx"
+    },
+    "1082": {
+      "id": "anim:1082",
+      "resPath": "RawAnim/1082_GIST_1.fbx"
+    },
+    "1089": {
+      "id": "anim:1089",
+      "resPath": "RawAnim/1089_GIST_2.fbx"
+    }
+  }
+}
